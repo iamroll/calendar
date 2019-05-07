@@ -12,3 +12,4 @@ php artisan serve
 crontab -e
 * * * * * php /path/to/artisan schedule:run >> /dev/null 2>&1
 ```
+![123](https://user-images.githubusercontent.com/27915539/57321176-94c0c980-7122-11e9-9752-02793f1a74f6.png)
